@@ -1,3 +1,3 @@
-# I POC work Repository
+# AI POC WORK Repository
 
 This README has been updated by the OpenClaw assistant.
